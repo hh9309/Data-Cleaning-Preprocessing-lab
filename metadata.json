@@ -1,0 +1,6 @@
+{
+  "name": "R 数据清洗与预处理 WebApp 实验室",
+  "description": "面向 R 语言 (tidyverse/janitor/naniar/mice) 的专业数据清洗与预处理交互式实验室，涵盖数据清洗代数、健康度质检、缺失填补、异常值清洗、六大工业案例、AI 随诊诊断及全流程白皮书报告导出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
